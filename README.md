@@ -2,7 +2,7 @@
 
 一款给汉语学习者玩的**闯关卡牌游戏**：把手里拿到的汉字卡片和怪物出示的字组成词语，就能造成伤害。
 
-**在线试玩：** https://owlminerva593-lang.github.io/hanzi-xiaojoupai/
+**在线试玩：** https://lucian217.github.io/hanzi-xiaojoupai/
 
 ## 玩法
 
